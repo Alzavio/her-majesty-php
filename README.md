@@ -26,7 +26,7 @@ Changed keywords
 | echo             | announce           |
 | class            | upper_class, middle_class, working_class |
 | throw            | eject              |
-| goto             | colonize           |
+| goto             | colonise           |
 
 How to change keywords
 ======================
